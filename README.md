@@ -53,6 +53,11 @@ MagicOnion(2023/10/16現在の最新安定版)
 - チュートリアルのままならサーバ側の `Properties/launchSettings.json` にURLの設定がある
   - そのjsonの `profiles.http(https).applicationUrl` の値を参照する
 
+【git】no-ffのすすめ(詳細はggる)
+```
+git config --global --add merge.ff false
+git config --global --add pull.ff only
+```
 
 
 
