@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sample.ChatApp.Client": {
+      "commandName": "Project",
+      "commandLineArgs": "member_A"
+    }
+  }
+}
