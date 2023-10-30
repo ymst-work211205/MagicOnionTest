@@ -1,4 +1,4 @@
-# MagicOnionTest202310
+# MagicOnionTest
 
 ## Overview
 
